@@ -1,0 +1,2 @@
+# Gorilla Cosmetics Reborn Project (BETA)
+No instructions yet, sorry! If you're experienced with the ins and outs of these kinds of projects you should get the gist of it, there's also many example cosmetics in the CosmeticScene.
